@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/Users/bear/crypto_trading/capturer/build",
+  "command": "/usr/bin/clang++   -g -std=c++20 -o CMakeFiles/thread_practice_1.dir/main.cpp.o -c /Users/bear/crypto_trading/capturer/main.cpp",
+  "file": "/Users/bear/crypto_trading/capturer/main.cpp",
+  "output": "CMakeFiles/thread_practice_1.dir/main.cpp.o"
+}
+]

@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/thread_practice_1.dir/main.cpp.o -o thread_practice_1 

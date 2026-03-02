@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="Darwin-clang++"
+	BuildStamp="20260223-1914-Experimental"
+	Name="MBP-van-user.Home"
+	Generator="ctest-4.2.3"
+	CompilerName="/usr/bin/clang++"
+	CompilerVersion="15.0.0.15000309"
+	OSName="macOS"
+	Hostname="MBP-van-user.Home"
+	OSRelease="14.6.1"
+	OSVersion="23G93"
+	OSPlatform="x86_64"
+	Is64Bits="1"
+	VendorString="GenuineIntel"
+	VendorID="Intel Corporation"
+	FamilyID="6"
+	ModelID="158"
+	ModelName="Intel(R) Core(TM) i7-9750H CPU @ 2.60GHz"
+	ProcessorCacheSize="32768"
+	NumberOfLogicalCPU="12"
+	NumberOfPhysicalCPU="6"
+	TotalVirtualMemory="4096"
+	TotalPhysicalMemory="16384"
+	LogicalProcessorsPerPhysical="8"
+	ProcessorClockFrequency="2600"
+	>
+	<Testing>
+		<StartDateTime>Feb 28 14:20 GMT</StartDateTime>
+		<StartTestTime>1772288414</StartTestTime>
+		<TestList/>
+		<EndDateTime>Feb 28 14:20 GMT</EndDateTime>
+		<EndTestTime>1772288414</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>
